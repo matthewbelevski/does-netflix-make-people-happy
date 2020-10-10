@@ -3,6 +3,7 @@
 For this group project we tried to analyse the connection between the netflix preferences people have with their happiness levels.
 
 For this we used 2 data sets from Kaggle:
+
 World Happiness Report 2020
 
 &
